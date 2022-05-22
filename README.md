@@ -54,12 +54,12 @@
 ## ⛏ Learning
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
 </div>
 
 ## 📚 My Another Skills
 <div>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
