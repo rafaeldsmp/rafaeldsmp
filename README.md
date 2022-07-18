@@ -3,7 +3,7 @@
 <div>
   <img
     src="https://i.imgur.com/1ZvVkDc.gif" 
-    alt="mario coding"/>
+    alt="mario programando"/>
 </div>
 
 <div>
@@ -32,9 +32,9 @@
 
 <h3> 📁 About me...</h3>
 <div>
-  <h2 align="center">Looking for a junior front-end development experience</h2>
-  <p>- I live in Brazil, Midwest 😄☕<br>
-- I've been study and improve my skills as a front-end developer :computer:<br>
+  <h2 align="center">Junior Front-end Developer</h2>
+  <p>- I live in Brazil, Midwest 😄☕< /br>
+- I've been study and improve my skills as a front-end developer :computer:< /br>
   - I'm learning more about React and Vue 💖</p>
 </div>
 
