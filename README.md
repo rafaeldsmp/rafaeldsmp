@@ -3,7 +3,7 @@
 <div>
   <img
     src="https://i.imgur.com/1ZvVkDc.gif" 
-    alt="mario programando"/>
+    alt="mario coding"/>
 </div>
 
 <div>
@@ -32,10 +32,10 @@
 
 <h3> 📁 About me...</h3>
 <div>
-  <h2 align="center">Junior Front-end Developer</h2>
-  <p>- I live in Brazil, Midwest 😄☕< /br>
-- I've been study and improve my skills as a front-end developer :computer:< /br>
-  - I'm learning more about React and Vue 💖</p>
+  <p>- Junior Front-end Developer</p>
+  <p>- I live in Brazil, Midwest 😄☕</p>
+  <p>- I've been study and improve my skills as a front-end developer :computer: 
+  <p> - I'm learning more about React and Vue 💖</p>
 </div>
 
 ## 🧠 My Skills
@@ -60,8 +60,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaeldsmp&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldsmp&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaeldsmp&show_icons=true&theme=vision-friendly-dark" alt="rafael pino's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldsmp&layout=compact&theme=vision-friendly-dark" alt="rafael pino's most languages"/>
 </p>
-
-<br><br>
