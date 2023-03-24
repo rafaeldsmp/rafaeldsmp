@@ -20,11 +20,6 @@
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.instagram.com/rafael.pinoo/">
-    <img 
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
-      alt="instagram">
-  </a>
   
 </div>
 
