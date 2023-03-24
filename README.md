@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">, I'm Rafael Pino</h1>
+<h1 align="left">Hello 😁, I'm Rafael Pino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeldsmp&color=yellow" alt="Profile views"/> </p>
 <div>
   <img
@@ -29,7 +29,7 @@
 <div>
   <p>- Software Developer ⌨ </p>
   <p>- I've been study and improve my skills to become a back end developer :computer: 
-  <p>- Working with C# and Java 💗</p>
+  <p>- Currently working with C# and study Java </p>
 </div>
 
 ## 🧠 My Skills
