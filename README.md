@@ -28,9 +28,8 @@
 <h3> 📁 About me...</h3>
 <div>
   <p>- Software Developer ⌨ </p>
-  <p>- I live in Brazil, Midwest 😄☕</p>
-  <p>- I've been study and improve my skills to become a full stack developer:computer: 
-  <p> - I'm learning more about Angular and C# 💗</p>
+  <p>- I've been study and improve my skills to become a back end developer :computer: 
+  <p>- Working with C# and Java 💗</p>
 </div>
 
 ## 🧠 My Skills
