@@ -28,8 +28,8 @@
 <h3> 📁 About me...</h3>
 <div>
   <p>- Software Developer ⌨ </p>
-  <p>- I've been study and improve my skills to become a back end developer :computer: 
-  <p>- Currently working with C# and study Java </p>
+  <p>- I've been study and improve my skills to become a back-end developer :computer: 
+  <p>- Currently working with C# and studying Java </p>
 </div>
 
 ## 🧠 My Skills
