@@ -29,7 +29,7 @@
 <div>
   <p>- Software Developer ⌨ </p>
   <p>- I've been study and improve my skills to become a back-end developer :computer: 
-  <p>- Currently working with C# and studying Java </p>
+  <p>- Currently working with C#</p>
 </div>
 
 ## 🧠 My Skills
