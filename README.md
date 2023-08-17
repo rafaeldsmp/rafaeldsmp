@@ -22,5 +22,3 @@
 
 ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldsmp&show_icons=true&locale=en&layout=compact" alt="rafaeldsmp" /></p> 
-
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rafaeldsmp&show_icons=true&locale=en" alt="rafaeldsmp" /></p>
