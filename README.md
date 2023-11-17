@@ -1,4 +1,4 @@
-### O meu nome é Rafael, Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+### Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🔰 Sou de Brasília/DF, Brasil
 - ⚡ Desenvolvedor de software com paixão pelo código
