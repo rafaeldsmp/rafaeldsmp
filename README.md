@@ -3,8 +3,6 @@
 - 📍 Sou de Brasília/DF, Brasil
 - ⚡ Desenvolvedor de software com paixão pelo código
 - 🧠 Graduado em Sistemas de Informação e Pós-Graduado em Desenvolvimento Web Full Stack
-- 🏦 Atualmente trabalho como Desenvolvedor Backend Java
-
 
 ##
   <h3>
