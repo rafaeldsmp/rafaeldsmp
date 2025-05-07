@@ -1,10 +1,10 @@
-### Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+### Seja bem-vindo ao meu perfil do GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right" />
 
 - 📍 Sou de Brasília/DF, Brasil
 - ⚡ Desenvolvedor de software com paixão pelo código
 - 🧠 Graduado em Sistemas de Informação e Pós-Graduado em Desenvolvimento Web Full Stack
 
-##
+---
   <h3>
     📫 Entre em contato comigo:
   </h3>
@@ -18,7 +18,7 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>  
 
-## 
+--- 
 <h3>🛠️ Linguagens e Ferramentas:</h3>
 
 <p align="left">
@@ -27,8 +27,7 @@
   </a>
 </p>
 
-## 
-<h3 align="left">
-⚙️ Estatística:</h3>
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldsmp&show_icons=true&locale=en&layout=compact" alt="rafaeldsmp" /></p> 
+--- 
+<h3 align="left">⚙️ Estatística:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldsmp&layout=compact&langs_count=7&theme=default" alt="Linguagens mais usadas" />
 
