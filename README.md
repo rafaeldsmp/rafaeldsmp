@@ -29,5 +29,5 @@
 
 --- 
 <h3 align="left">⚙️ Estatística:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldsmp&layout=compact&langs_count=7&theme=default" alt="Linguagens mais usadas" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldsmp&layout=compact&langs_count=7&theme=dark&hide=html,css,scss" alt="Linguagens mais usadas" />
 
